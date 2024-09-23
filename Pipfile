@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 python-dotenv = "*"
 python-telegram-bot = "*"
+psycopg2-binary = "*"
+sqlalchemy = "*"
+alembic = "*"
 
 [dev-packages]
 
